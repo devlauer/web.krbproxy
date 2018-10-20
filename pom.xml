@@ -9,7 +9,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<jettyVersion>9.2.19.v20160908</jettyVersion>
+		<jettyVersion>9.4.12.v20180830</jettyVersion>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -25,7 +25,7 @@
 		<dependency>
 			<groupId>org.mitre.dsmiley.httpproxy</groupId>
 			<artifactId>smiley-http-proxy-servlet</artifactId>
-			<version>1.9-SNAPSHOT</version>
+			<version>1.10</version>
 		</dependency>
 	</dependencies>
 	<build>
