@@ -9,7 +9,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <jettyVersion>9.4.51.v20230217</jettyVersion>
+        <jettyVersion>10.0.14</jettyVersion>
     </properties>
     <dependencies>
         <dependency>
